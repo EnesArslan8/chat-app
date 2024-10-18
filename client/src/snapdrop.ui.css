@@ -1,0 +1,31 @@
+.app {
+	font-family: Arial, sans-serif;
+	padding: 20px;
+	text-align: center;
+}
+
+.device-list ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.device-list li {
+	padding: 10px;
+	background-color: #f4f4f4;
+	margin: 5px 0;
+	cursor: pointer;
+}
+
+.file-sender {
+	margin-top: 20px;
+}
+
+.file-sender input {
+	margin-right: 10px;
+}
+
+.file-receiver {
+	margin-top: 20px;
+	padding: 10px;
+	border: 1px solid #ddd;
+}
